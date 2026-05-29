@@ -1,4 +1,4 @@
-# [DAREX](https://discord.com/oauth2/authorize?client_id=754498131382763570&permissions=8&scope=applications.commands+bot) — YENİ NESİL ROBLOX & DISCORD ENTEGRASYON SİSTEMİ
+# [DAREX](https://discord.com/oauth2/authorize?client_id=754498131382763570&permissions=8&scope=applications.commands+bot) — YENİ NESİL ROBLOX & DISCORD RÜTBELENDİRME SİSTEMİ
 Darex, Discord sunucunuz ile Roblox gruplarınız arasında milisaniyelik bir köprü kuran; rütbe yönetimini, kurumsal güvenliği ve tam otomatik senkronizasyonu en üst düzeye çıkaran, Sharding altyapılı yeni nesil bir otomasyon ekosistemidir.
 
 - **Darex'i hemen keşfetmek için: /yardım komutunu kullanabilirsiniz.**
