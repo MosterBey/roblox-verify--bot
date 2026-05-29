@@ -26,7 +26,8 @@ Roblox ve Discord topluluğunuzu büyütürken rütbe işleriyle, API hatalarıy
 - /grup-bağla : Gruplarınızı yönetmek için bağlarsınız.
 - /yetkili-denetle : Yetkililerin rütbe aktivite geçmişini raporlar.
 
-- [Darex Tanıtım ve Kurulum Videosu](https://www.youtube.com/watch?v=rcmHxssySr0&t=6s) > https://www.youtube.com/watch?v=rcmHxssySr0&t=6s
-VE DAHA FAZLASI  [DAREX](https://discord.com/oauth2/authorize?client_id=754498131382763570&permissions=8&scope=applications.commands+bot) 'DE.
+- [Darex Tanıtım ve Kurulum Videosu](https://www.youtube.com/watch?v=rcmHxssySr0&t=6s)
+
+- VE DAHA FAZLASI  [DAREX](https://discord.com/oauth2/authorize?client_id=754498131382763570&permissions=8&scope=applications.commands+bot) 'DE.
 
 <3 [Şimdi Darexi Sende Sunucuna Kur](https://discord.com/oauth2/authorize?client_id=754498131382763570&permissions=8&scope=applications.commands+bot)
