@@ -31,3 +31,4 @@ Roblox ve Discord topluluğunuzu büyütürken rütbe işleriyle, API hatalarıy
 - VE DAHA FAZLASI  [DAREX](https://discord.com/oauth2/authorize?client_id=754498131382763570&permissions=8&scope=applications.commands+bot) 'DE.
 
 <3 [Şimdi Darexi Sende Sunucuna Kur](https://discord.com/oauth2/authorize?client_id=754498131382763570&permissions=8&scope=applications.commands+bot)
+<3 [Darex Destek Sunucusuna Katıl](https://discord.gg/44n92qeTTd)
