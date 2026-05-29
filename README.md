@@ -1,7 +1,7 @@
 # [DAREX](https://discord.com/oauth2/authorize?client_id=754498131382763570&permissions=8&scope=applications.commands+bot) — YENİ NESİL ROBLOX & DISCORD RÜTBELENDİRME SİSTEMİ
 Darex, Discord sunucunuz ile Roblox gruplarınız arasında milisaniyelik bir köprü kuran; rütbe yönetimini, kurumsal güvenliği ve tam otomatik senkronizasyonu en üst düzeye çıkaran, Sharding altyapılı yeni nesil bir otomasyon ekosistemidir.
 
-- **Darex'i hemen keşfetmek için: /yardım komutunu kullanabilirsiniz.**
+- **Rütbelendirme Botuna Mı İhtiyacınız Var? O Zaman Darex'i Hemen Keşfetin: /yardım**
 
 # Darex ile Gücünüze Güç Katın:
 - Performans: Automated Cache Engine: Darex, klasik botların aksine Roblox API'sini her işlemde yormaz. Gelişmiş Bellek İçi (RAM) Önbellekleme mimarisi sayesinde: Tepki Hızı: 300ms'den <5ms seviyesine düşürüldü.
